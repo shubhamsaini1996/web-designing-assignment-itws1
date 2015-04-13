@@ -1,0 +1,8 @@
+body {
+background-image: url("../static/db.jpg")
+}
+p{
+color: yellow;
+font-size: 40px;
+font-family: "Comic Sans MS"
+}
